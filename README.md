@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshannaaik019&label=Profile%20views&color=0e75b6&style=flat" alt="darshannaaik019" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshannaik019&label=Profile%20views&color=0e75b6&style=flat" alt="darshannaik019" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshannaik019" alt="darshannaik019" /></a> </p>
 
